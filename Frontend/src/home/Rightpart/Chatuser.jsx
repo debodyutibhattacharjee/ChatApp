@@ -21,8 +21,8 @@ function Chatuser() {
       </label>
       <div className="flex space-x-3 items-center justify-center h-[8vh] bg-gray-800 hover:bg-gray-700 duration-300">
         <div className="avatar online">
-          <div className="w-16 rounded-full">
-            <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+          <div className="w-12 rounded-full">
+            <img src="https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?uid=R136543274&ga=GA1.1.745433197.1722170426&semt=ais_hybrid" />
           </div>
         </div>
         <div>
